@@ -173,6 +173,6 @@ In this section all screenshots related to the test are displayed here.
 
 - [Leo LE CORRE](https://github.com/KarmaEssence)
 - [Youssef AIT EL MAHJOUB](https://github.com/ossef)
-- This code is open source. The original document is [1].
+- The original document is [1].
 
 [1] "STOCHASTIC MODELING AND OPTIMIZATION FOR POWER AND PERFORMANCE CONTROL IN DVFS SYSTEMS", Youssef AIT EL MAHJOUB, Leo LE CORRE and Hind CASTEL-TALEB". In 37th ECMS - International Conference on Modelling and Simulation, 2023.
