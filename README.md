@@ -169,7 +169,7 @@ In this section all screenshots related to the test are displayed here.
 
 
 
-##  Contributors & Copyright
+##  Contributors
 
 - [Leo LE CORRE](https://github.com/KarmaEssence)
 - [Youssef AIT EL MAHJOUB](https://github.com/ossef)
